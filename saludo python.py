@@ -1,6 +1,7 @@
-# Pide al usuario su nombre
-nombre = input("¿Cuál es tu nombre? ")
+# Pide al usuario su apellido
+nombre = input("¿Cuál es tu apellido? ")
 
 # Saluda al usuario
-print(f"¡Hola, {nombre}! Bienvenido a Python.")
+print(f"¡Hola, {apellido}! Bienvenido a Python.")
+
 
