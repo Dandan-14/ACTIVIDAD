@@ -1,5 +1,5 @@
 print("¡Hola, mundo!")
-print("!¿como, estas?")
+print("!¿como te ha ido?")
 
 print(class en la jornada tarde 
  {
