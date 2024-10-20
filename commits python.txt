@@ -1,8 +1,0 @@
-print("¡Hola, mundo!")
-print("!¿como, estas?")
-
-print(class TECNICA EN CHAPINERO
- {
-
-    
-})
