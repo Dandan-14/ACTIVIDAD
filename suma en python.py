@@ -9,4 +9,5 @@ num2 = float(input("Ingresa el segundo número: "))
 resta = num1 - num2
 
 # Muestra el resultado
-print(f"La resta de {num1} y {num2} es: {resta}")
+print(f"La resta de {num1} y {num2} es: {SUMA}")
+
